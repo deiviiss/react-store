@@ -7,8 +7,8 @@ module.exports = {
   entry: './src/index.js', //punto de entrada de la aplicación
   output: { //salida de la aplicación
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js',
-    publicPath: '/'
+    filename: 'react-store/bundle.js',
+    publicPath: '/react-store/'
   },
   mode: 'development',
   resolve: {
