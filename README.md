@@ -3,7 +3,7 @@ E-Commerce - ReactJs
 
 Curso Oscar Barajas
 
-https://platzi.com/cursos/react-practico/https://platzi.com/cursos/react-practico/
+https://platzi.com/cursos/react-practico/
 
 Dependencias
 - react
